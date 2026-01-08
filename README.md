@@ -1,2 +1,2 @@
 # Moodmelody
-It’s a website that plays music according to the user’s mood
+A website that plays different music according to the user's mood
